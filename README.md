@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm CoolProgrammerAK</h1>
 <h3 align="center">Autodidact coder</h3>
 
-- 🌱 I’m currently learning **DSA , Flask **
+- 🌱 I’m currently learning **DSA , Flask**
 
 - 👯 I’m looking to collaborate on [movie-downloading -site](https://github.com/CoolProgrammerAK/filmyzone)
 
