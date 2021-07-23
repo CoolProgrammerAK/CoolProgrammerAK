@@ -33,13 +33,16 @@
   
 <img src="https://metrics.lecoq.io/CoolProgrammerAK" alt="Github Metrics">
   
-  <br>
-  
-
   
 </p>
+
 #  Github Stats 📈
+<p align="center">
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoolProgrammerAK" alt="Github Streak Stats">
+  
+  
+</p>
 <a href="https://github.com/CoolProgrammerAK">
     <img src="https://github-readme-stats.vercel.app/api?username=CoolProgrammerAK&count_private=true&show_icons=true&hide_border=true"
                     width="51%" />
