@@ -1,12 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm CoolProgrammerAK</h1>
-<h3 align="center">Autodidact coder</h3>
+<h1 align="center">Hi 👋, I'm Aviney</h1>
+<h3 align="center">I love working on new and exciting technologies emerging nowadays. </h3>
 
-- 🌱 I’m currently learning **DSA , Flask**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [movie-downloading -site](https://github.com/CoolProgrammerAK/filmyzone)
+- 👯 I’m looking to collaborate on MERN Stack projects.
 
-- 💬 Ask me about **MERN Stack, React Native, Flutter**
+-  💬 Ask me about **Web Technologies**
+
+-  😄 Pronouns: He/him
 
 - 📫 How to reach me **avineykhetarpal01@gmail.com**
 
@@ -15,7 +17,26 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/aviney_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CoolProgrammerAK" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aviney-khetarpal-6906591b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CoolProgrammerAK" height="30" width="40" /></a>
 </p>
 
+<br>
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CoolProgrammerAK" alt="CoolProgrammerAK"/> </p> 
+
+<!--![](https://komarev.com/ghpvc/?username=CoolProgrammerAK)-->
+
+
+<br>
+<p align="center">
+  
+<img src="https://metrics.lecoq.io/CoolProgrammerAK" alt="Github Metrics">
+  
+  <br>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoolProgrammerAK" alt="Github Streak Stats">
+  
+</p>
