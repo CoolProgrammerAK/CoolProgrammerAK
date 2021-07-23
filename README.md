@@ -40,7 +40,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoolProgrammerAK" alt="Github Streak Stats">
   
 </p>
-<br/><br/>
+<br/>
 # Github Stats 📈
 
 <a href="https://github.com/CoolProgrammerAK">
