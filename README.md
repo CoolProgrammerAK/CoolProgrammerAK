@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aviney</h1>
+
 <h3 align="center">I love working on new and exciting technologies emerging nowadays. </h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
@@ -14,13 +15,12 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19LniAsCCV9G8TEoSDCyEea3_p3dni3Da/view?usp=sharing)
 
+- ⚡ Connect with me - [Aviney](https://www.linkedin.com/in/aviney-khetarpal-6906591b6/)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/aviney-khetarpal-6906591b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CoolProgrammerAK" height="30" width="40" /></a>
-</p>
 
-<br>
+<img align="right" width="250px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif">
+
+
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
