@@ -40,3 +40,19 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoolProgrammerAK" alt="Github Streak Stats">
   
 </p>
+<br/><br/>
+# Github Stats 📈
+
+<a href="https://github.com/CoolProgrammerAK">
+    <img src="https://github-readme-stats.vercel.app/api?username=CoolProgrammerAK&count_private=true&show_icons=true&hide_border=true"
+                    width="51%" />
+</a>
+<a href="https://github.com/CoolProgrammerAK?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolProgrammerAK&layout=compact&langs_count=10&hide_border=true"
+                    width="43%" />
+</a>
+
+<br><br>
+![Aviney](https://activity-graph.herokuapp.com/graph?username=CoolProgrammerAK&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&show_icons=true&count_private=true&area=true&hide_border=true" /> -->
+
