@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Aviney</h1>
 
+
+<img align="right" width="250px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif">
 <h3 align="center">I love working on new and exciting technologies emerging nowadays. </h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
@@ -17,8 +19,6 @@
 
 - ⚡ Connect with me - [Aviney](https://www.linkedin.com/in/aviney-khetarpal-6906591b6/)
 
-
-<img align="right" width="250px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif">
 
 
 
