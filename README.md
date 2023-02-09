@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **avineykhetarpal01@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19LniAsCCV9G8TEoSDCyEea3_p3dni3Da/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1z0OgKcRwPBZvwcXentv37cSR89LplFPX/view?usp=sharing)
 
 - ⚡ Connect with me - [Aviney](https://www.linkedin.com/in/aviney-khetarpal-6906591b6/)
 
